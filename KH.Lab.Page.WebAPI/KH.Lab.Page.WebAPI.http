@@ -1,0 +1,6 @@
+@KH.Lab.Page.WebAPI_HostAddress = http://localhost:5062
+
+GET {{KH.Lab.Page.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
